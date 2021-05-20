@@ -1,13 +1,18 @@
 {
   "contacts": [
     {
-      "name": "Cat",
-      "number": "123-456",
+      "name": "Maksym",
+      "number": "666-777",
       "id": 1
     },
     {
-      "name": "Dog",
-      "number": "111-222",
+      "name": "Bogdan",
+      "number": "444-555",
+      "id": 2
+    },
+    {
+      "name": "Misha",
+      "number": "333-111",
       "id": 2
     }
   ]

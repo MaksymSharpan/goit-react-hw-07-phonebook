@@ -33,7 +33,7 @@ class ContactForm extends Component {
           Name
           <input
             className={style.input}
-            autoComplete="off"
+            autoComplete="on"
             type="text"
             name="name"
             value={this.state.name}
@@ -44,7 +44,7 @@ class ContactForm extends Component {
           Number
           <input
             className={style.input}
-            autoComplete="off"
+            autoComplete="on"
             type="text"
             name="number"
             value={this.state.number}
